@@ -1,4 +1,4 @@
-module github.com/aerokube/images
+module github.com/mantheus/selenoid-images
 
 go 1.15
 
