@@ -15,7 +15,7 @@
 
 This reference covers version: _{revnumber}_
 
-This section contains information about browser images available for using with https://aerokube.com/selenoid/[Selenoid] and https://aerokube.com/moon/[Moon]. Please refer to https://github.com/aerokube/images[GitHub repository] if you need source code.
+This section contains information about browser images available for using with https://aerokube.com/selenoid/[Selenoid] and https://aerokube.com/moon/[Moon]. Please refer to https://github.com/mantheus/selenoid-images[GitHub repository] if you need source code.
 
 == Browser Image Information
 include::android.adoc[leveloffset=+1]
